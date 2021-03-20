@@ -1,0 +1,16 @@
+C:\Users\corbin.park\Desktop\Console Application\3x3\bin\Debug\net5.0\3x3.exe
+C:\Users\corbin.park\Desktop\Console Application\3x3\bin\Debug\net5.0\3x3.deps.json
+C:\Users\corbin.park\Desktop\Console Application\3x3\bin\Debug\net5.0\3x3.runtimeconfig.json
+C:\Users\corbin.park\Desktop\Console Application\3x3\bin\Debug\net5.0\3x3.runtimeconfig.dev.json
+C:\Users\corbin.park\Desktop\Console Application\3x3\bin\Debug\net5.0\3x3.dll
+C:\Users\corbin.park\Desktop\Console Application\3x3\bin\Debug\net5.0\ref\3x3.dll
+C:\Users\corbin.park\Desktop\Console Application\3x3\bin\Debug\net5.0\3x3.pdb
+C:\Users\corbin.park\Desktop\Console Application\3x3\obj\Debug\net5.0\3x3.csprojAssemblyReference.cache
+C:\Users\corbin.park\Desktop\Console Application\3x3\obj\Debug\net5.0\3x3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corbin.park\Desktop\Console Application\3x3\obj\Debug\net5.0\3x3.AssemblyInfoInputs.cache
+C:\Users\corbin.park\Desktop\Console Application\3x3\obj\Debug\net5.0\3x3.AssemblyInfo.cs
+C:\Users\corbin.park\Desktop\Console Application\3x3\obj\Debug\net5.0\3x3.csproj.CoreCompileInputs.cache
+C:\Users\corbin.park\Desktop\Console Application\3x3\obj\Debug\net5.0\3x3.dll
+C:\Users\corbin.park\Desktop\Console Application\3x3\obj\Debug\net5.0\ref\3x3.dll
+C:\Users\corbin.park\Desktop\Console Application\3x3\obj\Debug\net5.0\3x3.pdb
+C:\Users\corbin.park\Desktop\Console Application\3x3\obj\Debug\net5.0\3x3.genruntimeconfig.cache

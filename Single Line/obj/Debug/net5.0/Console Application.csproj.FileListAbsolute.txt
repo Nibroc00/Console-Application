@@ -1,0 +1,32 @@
+C:\Users\corbin.park\Desktop\Console Application\bin\Debug\net5.0\Console Application.exe
+C:\Users\corbin.park\Desktop\Console Application\bin\Debug\net5.0\Console Application.deps.json
+C:\Users\corbin.park\Desktop\Console Application\bin\Debug\net5.0\Console Application.runtimeconfig.json
+C:\Users\corbin.park\Desktop\Console Application\bin\Debug\net5.0\Console Application.runtimeconfig.dev.json
+C:\Users\corbin.park\Desktop\Console Application\bin\Debug\net5.0\Console Application.dll
+C:\Users\corbin.park\Desktop\Console Application\bin\Debug\net5.0\ref\Console Application.dll
+C:\Users\corbin.park\Desktop\Console Application\bin\Debug\net5.0\Console Application.pdb
+C:\Users\corbin.park\Desktop\Console Application\obj\Debug\net5.0\Console Application.csprojAssemblyReference.cache
+C:\Users\corbin.park\Desktop\Console Application\obj\Debug\net5.0\Console Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corbin.park\Desktop\Console Application\obj\Debug\net5.0\Console Application.AssemblyInfoInputs.cache
+C:\Users\corbin.park\Desktop\Console Application\obj\Debug\net5.0\Console Application.AssemblyInfo.cs
+C:\Users\corbin.park\Desktop\Console Application\obj\Debug\net5.0\Console Application.csproj.CoreCompileInputs.cache
+C:\Users\corbin.park\Desktop\Console Application\obj\Debug\net5.0\Console Application.dll
+C:\Users\corbin.park\Desktop\Console Application\obj\Debug\net5.0\ref\Console Application.dll
+C:\Users\corbin.park\Desktop\Console Application\obj\Debug\net5.0\Console Application.pdb
+C:\Users\corbin.park\Desktop\Console Application\obj\Debug\net5.0\Console Application.genruntimeconfig.cache
+C:\Users\corbin.park\Desktop\Console Application\Single Line\bin\Debug\net5.0\Console Application.exe
+C:\Users\corbin.park\Desktop\Console Application\Single Line\bin\Debug\net5.0\Console Application.deps.json
+C:\Users\corbin.park\Desktop\Console Application\Single Line\bin\Debug\net5.0\Console Application.runtimeconfig.json
+C:\Users\corbin.park\Desktop\Console Application\Single Line\bin\Debug\net5.0\Console Application.runtimeconfig.dev.json
+C:\Users\corbin.park\Desktop\Console Application\Single Line\bin\Debug\net5.0\Console Application.dll
+C:\Users\corbin.park\Desktop\Console Application\Single Line\bin\Debug\net5.0\ref\Console Application.dll
+C:\Users\corbin.park\Desktop\Console Application\Single Line\bin\Debug\net5.0\Console Application.pdb
+C:\Users\corbin.park\Desktop\Console Application\Single Line\obj\Debug\net5.0\Console Application.csprojAssemblyReference.cache
+C:\Users\corbin.park\Desktop\Console Application\Single Line\obj\Debug\net5.0\Console Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corbin.park\Desktop\Console Application\Single Line\obj\Debug\net5.0\Console Application.AssemblyInfoInputs.cache
+C:\Users\corbin.park\Desktop\Console Application\Single Line\obj\Debug\net5.0\Console Application.AssemblyInfo.cs
+C:\Users\corbin.park\Desktop\Console Application\Single Line\obj\Debug\net5.0\Console Application.csproj.CoreCompileInputs.cache
+C:\Users\corbin.park\Desktop\Console Application\Single Line\obj\Debug\net5.0\Console Application.dll
+C:\Users\corbin.park\Desktop\Console Application\Single Line\obj\Debug\net5.0\ref\Console Application.dll
+C:\Users\corbin.park\Desktop\Console Application\Single Line\obj\Debug\net5.0\Console Application.pdb
+C:\Users\corbin.park\Desktop\Console Application\Single Line\obj\Debug\net5.0\Console Application.genruntimeconfig.cache
